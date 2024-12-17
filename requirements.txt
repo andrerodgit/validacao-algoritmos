@@ -1,0 +1,6 @@
+pandas==1.5.3            # Manipulação de dados
+numpy>=1.20.3,<1.24.0    # Operações numéricas (exclui 1.24.0)
+matplotlib>=3.7.1        # Visualização de gráficos
+seaborn>=0.12.2          # Visualização estatística
+scikit-learn>=1.2.0      # Algoritmos de clusterização (K-means, DBSCAN)
+scipy>=1.10.0            # Análise hierárquica (dendogramas)
